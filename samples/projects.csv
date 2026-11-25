@@ -1,0 +1,4 @@
+program,resource,active_from,active_to,exclusive,contact_hours
+P1,venue_a,2026Q3,2026Q3,yes,4
+P2,volunteer_shift,2026Q3,2026Q4,no,3
+P3,venue_b,2026Q4,2026Q4,yes,5

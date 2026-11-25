@@ -1,0 +1,9 @@
+unit,scope,start,stop,expected_hours,version
+E1,group,2025Q1,2026Q2,3,v1
+E2,group,2025Q1,2026Q2,3,v1
+E2,independent,2026Q3,,4,v2
+E3,independent,2025Q1,,5,v1
+E4,closed,2026Q2,,0,v1
+E5,group,2025Q3,,2,v1
+E6,independent,2025Q4,,2,v1
+E7,independent,2026Q1,,4,v1
